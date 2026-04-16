@@ -1,7 +1,4 @@
-# Comparative Whole-Genome Analysis of Drug Resistance Mutations in *Mycobacterium tuberculosis*
-
-### A Multi-Gene Bioinformatics Approach
-
+# Comparative Whole-Genome Analysis of Drug Resistance Mutations in *Mycobacterium tuberculosis: A Multi-Gene Bioinformatics Approach*
 
 \---
 
