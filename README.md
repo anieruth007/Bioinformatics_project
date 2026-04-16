@@ -2,11 +2,6 @@
 
 ### A Multi-Gene Bioinformatics Approach
 
-!\[Python](https://img.shields.io/badge/Python-3.x-blue)
-!\[Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange)
-!\[Tools](https://img.shields.io/badge/Tools-BWA--MEM%20%7C%20SAMtools%20%7C%20bcftools-green)
-!\[Status](https://img.shields.io/badge/Status-75%25%20Complete-yellow)
-!\[License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 \---
 
@@ -183,15 +178,6 @@ Full reference list is available in the project report.
 
 \---
 
-## Academic Context
-
-**Institution:** VIT Chennai
-**Programme:** Integrated M.Tech — Computer Science \& Engineering (Business Analytics)
-**Course:** Bioinformatics Project
-**Academic Year:** 2025–2026
-**Review:** DA-2 — Review 2 (75% Implementation)
-
-\---
 
 ## License
 
